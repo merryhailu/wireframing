@@ -74,3 +74,52 @@ Wireframes break down a digital product into basic elements to guide design and 
 ---
 
 Each of these elements works together to shape the user's journey and ensure the final design is both user-friendly and functional.
+
+## 🧰 Types of Wireframes
+
+Wireframes can be classified based on the level of detail they present. The two primary types are:
+
+---
+
+### 🔹 Low-Fidelity Wireframes
+
+**Definition**: These are simple, sketch-like wireframes that focus on layout and content placement without detailed design elements.
+
+**Key Characteristics**:
+- Basic shapes and placeholders
+- No color, images, or branding
+- Quick to create and easy to revise
+
+**When to Use**:
+- Early stages of the design process
+- Brainstorming and ideation
+- Gathering initial feedback
+
+📌 *Example Use Case*: Mapping the overall layout of a homepage with rough blocks for navigation, hero section, and footer.
+
+---
+
+### 🔸 High-Fidelity Wireframes
+
+**Definition**: These wireframes are more polished and closely resemble the final design in terms of layout, spacing, and UI elements.
+
+**Key Characteristics**:
+- Detailed UI elements (buttons, forms, dropdowns)
+- Real content or refined placeholders
+- Sometimes include limited interaction
+
+**When to Use**:
+- Later stages of the design process
+- Before UI development begins
+- For stakeholder approval or usability testing
+
+📌 *Example Use Case*: Designing a detailed checkout form with input validation messages and button states.
+
+---
+
+## 🧐 Wireframe Classification: What Type is This?
+
+> 💡 **Based on the content and visual clarity of the current wireframe, this is a _High-Fidelity Wireframe_.**
+
+This wireframe includes precise layout structures, actual or close-to-final UI components, fonts, and spacing.
+It visually resembles the final product and is ideal for stakeholder feedback, developer handoff, and usability testing.
