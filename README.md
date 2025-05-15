@@ -194,3 +194,35 @@ Clients and stakeholders may struggle to interpret technical specs or raw UI con
 ---
 
 Wireframes are not just design sketches—they’re powerful tools that guide the development process, foster collaboration, and ultimately lead to a better product with fewer revisions.
+
+## 🧠 Real-World Scenario: How Wireframing Prevented Usability Issues
+
+### Scenario:
+While designing a **hotel booking platform**, the team created wireframes for the **Checkout Page**. Initially, the wireframe had a single long form with multiple input fields — user details, payment information, and booking confirmation — all on one screen.
+
+### Usability Issue Identified:
+During the wireframe review:
+- Designers noticed the page felt overwhelming and cluttered.
+- Stakeholders raised concerns that users might abandon the process halfway due to information overload.
+- Developers flagged the risk of mobile responsiveness issues with so many form elements on one page.
+
+### Resolution:
+Using wireframes, the team:
+- Split the checkout process into **three progressive steps** using a stepper design: 
+  1. Guest Details → 
+  2. Payment Info → 
+  3. Confirmation.
+- Added a progress bar to give users a sense of flow.
+- Tested the updated wireframe with mock user scenarios before moving to high-fidelity design.
+
+### Impact:
+- Reduced user drop-off during checkout by improving clarity and flow.
+- Saved development time by identifying layout issues early.
+- Enabled better stakeholder feedback before UI design and coding began.
+
+---
+
+## 🎯 Conclusion: Role of Wireframing in User-Friendly Design
+
+Wireframing is a **critical planning step** that uncovers usability flaws before they become expensive to fix in development. 
+It promotes collaboration, streamlines communication, and ensures the design is both functional and user-centric from the start. By catching issues early, wireframes help deliver intuitive, high-quality user experiences.
