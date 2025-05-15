@@ -123,3 +123,40 @@ Wireframes can be classified based on the level of detail they present. The two 
 
 This wireframe includes precise layout structures, actual or close-to-final UI components, fonts, and spacing.
 It visually resembles the final product and is ideal for stakeholder feedback, developer handoff, and usability testing.
+
+## 🛠️ Popular Wireframing Tools
+
+There are several tools available for creating wireframes, each offering different features and levels of fidelity. Below are some of the most commonly used tools in the design process:
+
+### 🔹 Balsamiq
+- Known for creating low-fidelity, sketch-style wireframes.
+- Quick drag-and-drop components for fast ideation.
+- Great for brainstorming and early-stage design.
+
+### 🔹 Adobe XD
+- Supports both wireframing and high-fidelity prototyping.
+- Offers collaboration features and seamless integration with other Adobe tools.
+
+### 🔹 Sketch
+- Popular among macOS users for UI/UX design.
+- Powerful plugins and vector editing tools.
+- Great for high-fidelity wireframes and UI kits.
+
+---
+
+### ⭐ Recommended: **Figma**
+
+![Figma Logo](https://img.shields.io/badge/Figma-Design_Tool-F24E1E?style=flat&logo=figma&logoColor=white)
+
+**Figma** is a cloud-based design tool that allows real-time collaboration and is highly effective for creating both low and high-fidelity wireframes.
+
+**Key Features:**
+- 💻 **Browser-based** – no installation required.
+- 🤝 **Real-time collaboration** – multiple users can work on the same file.
+- 🎨 **Design + Prototyping** – build interactive prototypes directly from wireframes.
+- 🔄 **Version control** – view design history and revert changes.
+- 💼 **Developer handoff** – inspect styles, measurements, and assets easily.
+
+**Why Use Figma for Wireframing?**
+Figma’s simplicity, flexibility, and collaboration features make it a top choice for both individual designers and teams. Whether sketching out a layout or building a 
+polished interface, Figma streamlines the wireframing and design process from start to finish.
